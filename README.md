@@ -1,5 +1,5 @@
 # Sistem Manajemen Perpustakaan Kampus
-[Kasih Deskripsi Singkat]
+Perpustakaan kampus membutuhkan sebuah sistem terintegrasi berbasis Java untuk mengelola operasional harian. Sistem ini dirancang untuk menangani pengelompokan kategori buku, pencatatan rekapitulasi peminjaman mingguan, pemetaan lokasi fisik buku (lantai, rak, dan posisi slot), pengelolaan koleksi buku secara dinamis, pencatatan riwayat transaksi dengan fitur pembatalan (undo), serta pengelolaan antrean layanan mahasiswa yang ingin meminjam buku.
 
 ## Tugas Pemrograman Java
 - **Mata Kuliah:** Pemrograman Berorientasi Objek
