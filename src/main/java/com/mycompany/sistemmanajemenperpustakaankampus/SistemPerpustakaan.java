@@ -6,7 +6,7 @@ import java.util.LinkedList;
 
 public class SistemPerpustakaan {
 
-        static String[] kategoriBuku = {"Pemrograman", "Matematika", "Jaringan Komputer", "Basis Data", "Algoritma", "Novel", "Bahasa Inggris"};
+        static String[] kategoriBuku = {"Pemrograman", "Matematika", "Jaringan Komputer", "Basis Data"};
 
     static String[] namaHari = {"Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"};
     static int[][] rekapPeminjaman = new int[4][7];
