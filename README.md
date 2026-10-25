@@ -180,27 +180,34 @@ Bagian ini diisi dengan tangkapan layar hasil eksekusi setiap fitur. Simpan file
 
 ### Menu 1 — Lihat Kategori Buku (Array 1D)
 
-![Menu 1 - Kategori Buku](screenshots/menu1-kategori.png)
+
+<img width="338" height="320" alt="image" src="https://github.com/user-attachments/assets/c4b1f899-f3b9-4f01-8d1c-886777649e31" />
+
 
 ### Menu 2 — Rekap Peminjaman Mingguan (Array 2D)
 
-![Menu 2 - Rekap Peminjaman](screenshots/menu2-rekap.png)
+<img width="613" height="407" alt="image" src="https://github.com/user-attachments/assets/fd7242b8-eccd-4083-9ddf-4b66ed11be5a" />
+
 
 ### Menu 3 — Pemetaan Lokasi Buku (Array 3D)
 
-![Menu 3 - Lokasi Buku](screenshots/menu3-lokasi.png)
+<img width="381" height="383" alt="image" src="https://github.com/user-attachments/assets/3f4b4c59-c18c-42c3-8264-4983ee3eecf5" />
+
 
 ### Menu 4 — Kelola Koleksi Buku (ArrayList)
 
-![Menu 4 - Koleksi Buku](screenshots/menu4-koleksi.png)
+<img width="395" height="385" alt="image" src="https://github.com/user-attachments/assets/ee91888b-9cd4-4493-950c-4b1d2393007d" />
+
 
 ### Menu 5 — Riwayat Transaksi (Stack)
 
-![Menu 5 - Riwayat Transaksi](screenshots/menu5-riwayat.png)
+<img width="396" height="325" alt="image" src="https://github.com/user-attachments/assets/4568a7a6-ddb1-487b-8a50-5702158ff44d" />
+
 
 ### Menu 6 — Antrean Layanan (Queue)
 
-![Menu 6 - Antrean Mahasiswa](screenshots/menu6-antrean.png)
+<img width="340" height="337" alt="image" src="https://github.com/user-attachments/assets/85f9f784-9f67-4945-867f-6b75dc6a5dc3" />
+
 
 ---
 
