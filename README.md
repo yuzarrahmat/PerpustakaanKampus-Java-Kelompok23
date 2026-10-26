@@ -213,7 +213,7 @@ Bagian ini diisi dengan tangkapan layar hasil eksekusi setiap fitur. Simpan file
 
 ## Testing Results
 
-Pengujian dilakukan secara fungsional terhadap setiap menu dengan skenario berikut.
+Pengujian dilakukan secara fungsional terhadap setiap menu DAPAT dilakukan dengan skenario berikut.
 
 | No | Skenario Pengujian | Hasil yang Diharapkan | Status |
 |----|--------------------|------------------------|--------|
@@ -228,4 +228,3 @@ Pengujian dilakukan secara fungsional terhadap setiap menu dengan skenario berik
 | 9 | Menambah 3 mahasiswa lalu melayani 1 kali pada menu 6 | Mahasiswa yang datang pertama dilayani lebih dulu (FIFO) | [OK / Belum] |
 | 10 | Memasukkan huruf pada pemilihan menu | Muncul pesan "Input harus berupa angka!", program tidak berhenti | [OK / Belum] |
 
-Analisis hasil pengujian: [tulis ringkasan hasil pengujian kelompok, mis. seluruh skenario berjalan sesuai harapan; input tidak valid tertangani dengan baik; satu-satunya keterbatasan program adalah ...]
